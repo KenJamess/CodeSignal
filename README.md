@@ -1,6 +1,7 @@
 # CodeSignal
 
 **Problem: shapeArea**
+**09.08.24**
 
 Below we will define an n-interesting polygon. Your task is to find the area of a polygon for a given n.
 
